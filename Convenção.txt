@@ -1,0 +1,53 @@
+======================================================================================================================================================================================
+======================================================================================================================================================================================
+
+										     CLASSES
+
+
+Nomes de classes, interfaces, enums e construtores devem ter a inicial de cada palavra maiúscula, com as demais letras minúsculas. As palavras não são separadas. 
+É permitido o uso de números. Por exemplo: StringBuilder, JPanel, Consumer, NullPointerException, LayoutManager2.
+
+
+======================================================================================================================================================================================
+======================================================================================================================================================================================
+
+										MÉTODOS E VARIÁVEIS
+
+
+Nomes de métodos, variáveis locais, variáveis de instância, variáveis estáticas que não sejam constantes, parâmetros de métodos, parâmetros de lambdas e pacotes 
+devem ter a primeira letra minúscula, com a inicial de cada uma das palavras que não a primeira maiúscula e todas as demais letras também minúsculas. Por exemplo, 
+toString, getClass, isVisible, setEnabled, clone, element, start, getX1, temp, x, y, f1, etc.
+
+
+======================================================================================================================================================================================
+======================================================================================================================================================================================
+
+										 PACOTES E MÓDULOS
+
+
+Nomes de pacotes e módulos (Java 9+) devem seguir o padrão de domínio reverso e ter todas as letras minúsculas sem separação entre palavras. Números são permitidos.
+Por exemplo, java.lang.annotation, javax.swing, javax.validation.constraintvalidation, org.json, org.apache.commons.lang3, org.springframework.web.servlet, java.base, 
+android.service.quicksettings. 
+
+
+======================================================================================================================================================================================
+======================================================================================================================================================================================
+
+										    CONSTANTES
+
+
+Nomes de constantes (ou seja, objetos imutáveis declarados com static e final) e elementos de enums devem ter todas as letras maiúsculas com palavras separadas por _. 
+Números são permitidos. Por exemplo, SOUTH_EAST, TOP, TIMED_WAITING, DECIMAL_FLOAT.
+
+
+======================================================================================================================================================================================
+======================================================================================================================================================================================
+
+										PARÂMETROS DO TIPO GENÉRICO
+
+
+Parâmetros de tipos genéricos são denotados por uma única letra maiúscula, tal como Map<K, V> ou List<E>.
+
+
+======================================================================================================================================================================================
+======================================================================================================================================================================================

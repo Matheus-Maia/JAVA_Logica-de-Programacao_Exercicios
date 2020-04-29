@@ -4,5 +4,6 @@ Udemy
 .project*
 .settings*
 bin*
-
-
+.metadata
+aulaRemota/src/br/ucsal/*Nomes.java
+aulaRemota/src/br/ucsal/*Calculando.java
